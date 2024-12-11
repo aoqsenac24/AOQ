@@ -1,0 +1,40 @@
+*{
+    text-align: center;
+    color: rgb(0, 0, 0);
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family:sans-serif;
+    list-style: none;
+    text-decoration: none;
+}
+.Navigtion{
+    text-align: center;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 18px 40px;
+    box-shadow: 0 0.1rem 0.5rem rgb(2, 2, 2);
+    width: 100%;
+    background-color: rgb(12, 192, 223);
+    transition: all 0.s;
+    }
+    body h1{
+        text-align: center;
+    }
+    main img{
+        direction: initial;
+        flex-direction: initial;
+        float: left;
+
+    }
+    .content-box2{
+        color: white;
+        display: flex;
+        text-align: center;
+        flex-direction: row;
+        background-color: rgb(12, 192, 223);
+        margin: auto;
+        width: 1000px;
+        border-radius: 1%;
+        }

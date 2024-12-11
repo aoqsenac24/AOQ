@@ -1,0 +1,126 @@
+body{
+    text-align: center;
+}
+.content-imagem{
+    text-align: center;
+}
+.content-text0{
+    text-align: center;
+    align-items: center;
+    margin: auto;
+    width: 1000px;
+}
+.content-box1{
+    display: flex;
+    text-align: center;
+    flex-direction: row;
+    background-color: rgb(229, 230, 220);
+    color: rgb(5, 25, 90);
+    margin: auto;
+    border: 0px;
+    border-radius: 5px;
+    width: 1000px;
+    box-shadow: 10px 10px 20px rgb(248, 241, 241);
+}
+.content-img{
+    display: flex;
+    align-items: center;
+    flex-direction: row;
+    margin: 10px;
+}
+.content-text{
+    align-items: center;
+    display: flex;
+    text-align: center;
+    color: rgb(5, 25, 90);
+    flex-direction: column;
+}
+.content-box2{
+    display: flex;
+    text-align: center;
+    flex-direction: row;
+    background-color: rgb(229, 230, 220);
+    margin: auto;
+    width: 1000px;
+    border-radius: 5%;
+  
+  
+}
+.content-text2{
+    display: flex;
+    text-align: center;
+    align-items: center;
+    margin: auto;
+    flex-direction: column;
+    color: rgb(5, 25, 90);
+    width: 1000px;
+    border-top: 30px;
+}
+.content-img2{
+    display: flex;
+    margin: 10px; 
+    align-items: center;
+    flex-direction: row;
+}
+.container{
+    display: flex;
+    gap: 20px;
+    flex-direction: column;
+}
+.content-site img{
+    
+}
+.content-site{
+    padding: 10px;
+    display: flex;
+    border-radius: 0px;
+    background-color: rgb(12, 192, 223);
+    color: white;
+}
+footer{
+    gap: 20px;
+    background-color: rgb(12, 192, 223);
+    text-align: center;
+    align-items:end;
+    color: white;
+    padding: 20px 0;
+    margin: 10px;
+}
+.footer p {
+    text-align: center;
+    margin-bottom: 10px;
+}
+.footer ul {
+    list-style: none;
+margin-top: 10px;
+}
+.footer ul li{
+    display: inline;
+    margin: 0 10px;
+}
+.footer ul li a {
+    text-decoration: none;
+    color: white;
+}
+.footer ul li a:hover{
+    color: #bd7407;
+}
+.content-mulher{
+    display: flex;
+    align-items: center;
+    margin: 10px;
+    width: 700px;
+    justify-content: space-around;
+    flex-direction: row;
+    text-align: center;
+}
+.content-computador{
+    display: flex;
+    flex-direction: row;
+    background-color: rgb(124, 187, 241);
+}
+.content-imgifpi{
+    align-items: center;
+    text-align: center;
+
+}

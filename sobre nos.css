@@ -1,0 +1,21 @@
+*{  text-align: center;
+    color: rgb(0, 0, 0);
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family:sans-serif;
+    list-style: none;
+    text-decoration: none;
+}
+.Navigtion{
+    text-align: center;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 18px 40px;
+    box-shadow: 0 0.1rem 0.5rem rgb(2, 2, 2);
+    width: 100%;
+    background-color: rgb(41, 205, 211);
+    transition: all 0.s;
+    }
+    

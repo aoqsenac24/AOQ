@@ -1,0 +1,39 @@
+*{  
+    text-align: center;
+    color: rgb(0, 0, 0);
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family:sans-serif;
+    list-style: none;
+    text-decoration: none;
+}
+.Navigtion{
+     margin: 75px 0;
+    text-align: center;
+    display: flex;
+    align-items: last baseline;
+    justify-content: space-between;
+    padding: 18px 40px;
+    box-shadow: 0 0.1rem 0.5rem rgb(2, 2, 2);
+    width: 100%;
+    background-color: rgb(12, 192, 223);
+    transition: all 0.s;
+    }
+    footer{
+        margin: 200px 0;
+        align-items: baseline;
+        background-color: rgb(12, 192, 223);
+        color: aliceblue;
+        font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Verdana, sans-serif;
+    }
+    .divclass.container{
+        text-align: center;
+        padding: 0%;
+        margin: 0%;
+    }
+    .centralizado{
+        text-align: center;
+        margin: 50px 0;
+    }
+    
